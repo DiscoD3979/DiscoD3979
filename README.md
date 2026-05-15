@@ -32,7 +32,7 @@
 
 ## 🚀 Основной проект: SirisUnlocker
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/DiscoD3979/Siris-Unlocker?label=Релиз&style=flat-square)](https://github.com/DiscoD3979/Siris-Unlocker/releases/tag/SirisUnlocker)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/DiscoD3979/Siris-Unlocker?label=Релиз&style=flat-square)](https://github.com/DiscoD3979/Siris-Unlocker/releases/tag/Lasted)
 [![GitHub Repo stars](https://img.shields.io/github/stars/DiscoD3979/Siris-Unlocker?style=flat-square)](https://github.com/DiscoD3979/Siris-Unlocker)
 
 **SirisUnlocker** — утилита для снятия ограничений, управления автозагрузкой и процессами в Windows 10/11.  
